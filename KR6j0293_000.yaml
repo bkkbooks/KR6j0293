@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0293/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀自在菩薩如意輪瑜伽
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1086.xml
+    old_id: T20n1086
+hash: sha256:8722c364614d00e67cd960f10ae69c12f992f4289a51a27df7210b7d9d60790c
